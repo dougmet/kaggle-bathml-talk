@@ -1,0 +1,42 @@
+---
+title: "Talking Data Kaggle Competition"
+author: "Doug Ashton"
+email: "dashton@mango-solutions.com"
+maketitle: true
+output:
+  rmdshower::shower_presentation:
+    self_contained: false
+    katex: true
+    theme: mango
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Overview
+
+- The competition
+- Organisation
+- How did we do?
+- What did we learn?
+
+## Kaggle Competition { .cover }
+
+<img src="img/talking-data.jpg" class="cover height">
+
+## Organisation { .cover }
+
+<img src="img/gitlab-logo-square.png" class="cover height">
+
+## How did we do? { .cover .white }
+
+<img src="img/wimbledon.jpg" class="cover height">
+
+## What did we learn? { .cover }
+
+<img src="img/deardiary.jpg" class="cover height">
+
+
