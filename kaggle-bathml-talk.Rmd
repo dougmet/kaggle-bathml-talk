@@ -230,3 +230,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 </p>
 </div>
+
+## Keep in touch
+
+- [Twitter @dougashton]()
+- [GitHub - dougmet]()
+- Email: dashton@mango-solutions.com
+
+Talk to me about data science jobs/internships/placements
