@@ -136,6 +136,9 @@ knitr::opts_chunk$set(echo = FALSE)
     |- output
 ```
 
+Agree evalaluation framework. We used [mlr](https://mlr-org.github.io/).
+
+
 ## Other Tech
 
 <img src="img/tech.jpg" style="width: 100%">
